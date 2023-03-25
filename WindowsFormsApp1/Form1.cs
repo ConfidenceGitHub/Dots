@@ -7,6 +7,7 @@ namespace WindowsFormsApp1
 {
     public partial class Form1 : Form
     {
+
         float lineThickness { get; set; }
         float dotSize { get; set; }
         bool periodsClicked { get; set; } = false;
